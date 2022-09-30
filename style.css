@@ -1,9 +1,25 @@
 h2 {
 	font-family: 'Rubik Dirt', cursive;
-	size: 5%;
+	size: 8%;
+}
+
+h4 {
+	font-family: 'Catamaran bold', sans-serif;
+
 }
 
 p {
 	font-family: 'Catamaran', sans-serif;
+}
+
+.btn {
+	margin-top: 40px;
+	padding: 10px 20px;
+	background-color: #C87B4B;
+	border: none;
+	border-radius: 5px;
+	margin-right: 10px;
+	cursor: pointer;
+	font-family: 'Rubik Dirt', cursive;
 
 }
