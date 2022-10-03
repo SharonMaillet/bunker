@@ -5,24 +5,54 @@
 
 h1{
     font-family: 'Rubik Dirt', cursive;
-    color: #713522
-    font-size: 35px
+    color: #713522;
+    font-size: 35px;
 }
-
-/Users/awatef/Documents/THP/Introduction/Group/Logo Bunker.png
 
 p{
     font-family: 'Catamaran', sans-serif;
 }
 
-.titre_calendar{
-    color: #713522
-    display: inline-block
-    font-size: 35px
-}
+/** PARTIE HERO + NAV DEBUT **/
 
-.calendrier.png{
-    height: 40px;
+
+/** PARTIE HERO + NAV  FIN **/
+
+
+
+
+
+
+
+/** PARTIE A PROPOS DEBUT **/
+
+
+/** PARTIE A PROPOS FIN **/
+
+
+
+
+
+
+
+
+
+
+
+
+/** PARTIE DE HAMZA DEBUT **/
+
+
+/** PARTIE DE HAMZA FIN **/
+
+
+
+
+
+
+/** PARTIE DE AWATEF DEBUT **/
+.imagecalendrier{
+    height: 400px;
 }
 
 .container2{
@@ -66,46 +96,6 @@ p{
     width:100%;
     position:absolute;
    }
-
-/** PARTIE HERO + NAV DEBUT **/
-
-
-/** PARTIE HERO + NAV  FIN **/
-
-
-
-
-
-
-
-/** PARTIE A PROPOS DEBUT **/
-
-
-/** PARTIE A PROPOS FIN **/
-
-
-
-
-
-
-
-
-
-
-
-
-/** PARTIE DE HAMZA DEBUT **/
-
-
-/** PARTIE DE HAMZA FIN **/
-
-
-
-
-
-
-/** PARTIE DE AWATEF DEBUT **/
-
 
 /** PARTIE DE AWATEF FIN **/
 
